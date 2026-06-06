@@ -17,6 +17,11 @@
 
 ---
 
+> 🤖 **このリポジトリを AI エージェントに渡すと、Antigravity 用のフォルダ構造（`AGENTS.md` ＋ `.agents/skills/`）を自動で作れます。**
+> 詳しくは [`SETUP_AGENT.md`](./SETUP_AGENT.md) を参照。エージェントに「SETUP_AGENT.md を読んで指示どおりに初期化して」と頼むだけです。
+
+---
+
 ## 1. そもそも「Antigravity」とは（旧版＝1.0のおさらい）
 
 Google Antigravity の初代（1.0）は、**2025年11月18日**に **Gemini 3** と同時発表された **「エージェントファースト（agent-first）」のIDE** です。一言でいえば「**AIエージェントを主役に据えた統合開発環境**」でした。
